@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+
+*
+{
+    margin: 0 px;
+    padding: 0 px;
+}
+.header{
+    background-color: #ece6e6;
+    box-sizing: border-box;
+    padding-left: 8%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.column
+{
+    
+    height: 160px;
+    border-radius: 10px;
+    padding-top: 12px;
+    margin: 8px;
+}
+
+.column img
+{
+    display: block;
+    margin: auto auto;
+    height: 80px;
+    width: 50%;
+}
+h3
+{
+    color: black;
+    margin-top: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+.headline
+{
+    padding:4px; 
+    background-color: aqua;
+    height: 40px;
+}
+.headline strong
+{
+    font-size:20px;
+}
+.headline a
+{
+    font-size: 14px;
+    color: black;
+}
+h1
+{
+    text-align: center;
+    margin-top: 20px;
+    color: #034963;
+    font-size:39px;
+}
+.about p
+{
+    margin-top: 10px;
+    text-align: center;
+    font-family:Roboto, sans-serif;
+    font-size: 16px;
+}
+.button
+{
+    width: 80px;
+    height: 80px;
+}
+button
+{
+    display: block;
+    padding: 8px 15px 8px 15px;
+    background-color: #0178a0;
+    color: white;
+    font-weight: 500;
+    margin: auto auto;
+    border-radius: 10px;
+    border: none;
+}
+.images
+{
+    margin-top: 20px;
+}
